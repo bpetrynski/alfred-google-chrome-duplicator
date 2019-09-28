@@ -1,1 +1,3 @@
-# alfred-google-chrome-duplicator
+# Alfred Google Chrome Duplicator
+
+![screenshot](screenshot.png)
